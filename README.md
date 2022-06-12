@@ -1,2 +1,2 @@
-# WordelProBugs
-Repo for reporting/tracking bugs for the WordlePro app
+# WorduxProBugs
+Repo for reporting/tracking bugs for the Wordux Pro app
