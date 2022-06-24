@@ -1,0 +1,49 @@
+*Options*
+Play a word search game
+Pick from a 4-letter dictionary of ~1500 words
+Pick from a 5-letter dictionary of ~2000 words
+Pick from a 6-letter dictionary of ~2000 words
+Play a word search game where your guesses reveal information for each letter about where they reside in the key word
+Play a word search game where your guesses reveal information for the guess about how many letters reside in the key word and in what place
+Receive instructions on how each game variant works
+Receive instructions on how the app works
+Choose from three keyboard presets that act as your controller in the game
+Share your game results with others by copying the game board to your device's clipboard
+Compete will others via a timer that tracks how long it took you to finish the game
+Choose which emojis represent your incorrect/semi-correct/correct letter placements
+View historical plays to review or screenshot for your friends
+Enable duplicate prevention which tracks your personal key word dictionary, though sacrifices having similar words than friends
+View a Settings panel to adjust some game settings whilst the game is still in progress
+Play a soothing water track
+Play sound effects when various actions/situations occur
+Return to the Main Menu to adjust the game options
+Have your settings chosen save so you don't have to reselect them
+View Wicked Manatee Games's other titles
+Provide feedback/report bugs to the developers
+
+*Game Functionality*
+Add letters to a guess by clicking on them
+Add letters to a guess by dragging them from the keyboard to a current guess's letter space
+Add letters to a guess by dragging them from previous guesses to a current guess's letter space
+Delete letters from the end of a guess by clicking the Delete button
+Delete letters from any position of the guess by tapping the letter 
+Updating a letter on the guessed word causes a small zoom animation
+Submit a guess word to see if it is the key word
+Submitting a guess triggers a card flip animation
+Incorrect guesses will provide a noise based on what letters were correct
+Letters that are not in the key word at all will have a gray background
+Letters that are in the key word but in the wrong space will have a yellow background
+Letters that are in the key word and in the right space will have a green background
+Letters that have not yet been guessed in a word will have a translucent background
+Correctly guessing the key word causes a confetti animation
+Scroll up/down through guessed words if the spill past the screen's limits
+Manipulate the positioning of any keyboard letter placement
+Choose the positioning of the Delete/Enter buttons
+Enable a Color mode that allows you to color the letters for piecing together possibilities
+See a summary when the game ends that includes various stats
+Review the game by closing the Game end summary
+Track how many total games have been played
+Track how many games you've won as a percentage of total games played
+Track how many games have been won in a row
+Track what your best streak of won games is
+Quickly jump back into a game by hitting the restart button
